@@ -14,6 +14,7 @@ a {
     transform: translate(-50%,-50%);
 }
 
+/*@media (min-width: 768px)*/
 .sidebar {
     position: fixed;
     top: 51px;
